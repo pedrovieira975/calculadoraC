@@ -3,7 +3,7 @@
 
 void soma()
 { 
-    //todo
+
     system ("pause"); 
     system("cls"); 
     menu(); 
@@ -11,7 +11,17 @@ void soma()
 
 void subtrai()
 {
-    //todo
+    float num1;
+        float num2;
+        float resultado;
+
+        printf("Escolha o primeiro numero:");
+        scanf("%f", &num1);
+        printf("Escolha o segundo numero:");
+        scanf("%f", &num2);
+        resultado = num1 - num2;
+        printf("resultado = %f", resultado);
+
     system ("pause");
     system("cls"); 
     menu();
@@ -19,7 +29,7 @@ void subtrai()
 
 void divide()
 { 
-    //todo
+
     system ("pause");
     system("cls");
     menu();
@@ -27,7 +37,7 @@ void divide()
 
 void multiplica()
 { 
-    //todo
+    
     system ("pause");
     system("cls");
     menu();

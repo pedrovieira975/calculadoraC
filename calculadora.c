@@ -11,7 +11,7 @@ void soma()
 
 void subtrai()
 {
- subtraçao
+ 
     float num1;
         float num2;
         float resultado;

@@ -1,6 +1,5 @@
 #include <stdio.h> 
 #include <stdlib.h>
-
 void soma()
 { 
 
@@ -42,6 +41,7 @@ void multiplica()
     system("cls");
     menu();
 }
+
 
 void menu()
 { 
